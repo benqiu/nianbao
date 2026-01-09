@@ -13,6 +13,8 @@ stockcode.xlsx文件放在py文件夹下，里面是需要爬取的公司代码�
 
 annual reports cninfo.py
 
+quarterly reports cninfo.py 季报
+
 py的依赖包需要你手动安装
 
 H股年报：
